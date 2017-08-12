@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">AndroQuiz</string>
+    <string name="app_name">Dota2 Quiz</string>
+    <string name="sifre">Şifre:</string>
+    <string name="kullaniciadi">Kullanıcı Adı:</string>
+    <string name="hosgeldiniz">Dota 2 Quizine Hoşgeldiniz</string>
+    <string name="girisbutton">Giriş</string>
+    <string name="alfanumeric">Sadece alfa-numerik karakter giriniz.</string>
+    <string name="ho_geldin">Hoş geldin</string>
+    <string name="dogru">Doğru!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="question">Question</string>
+    <string name="choicea">A</string>
+    <string name="choiceb">b</string>
+    <string name="choicec">C</string>
+    <string name="choiced">D</string>
+    <string name="devambutton">devam</string>
+    <string name="_0_0">0/0</string>
+    <string name="comm_0_0">0/0</string>
+    <string name="dogrusayisi">Doğru Sayınız:</string>
+    <string name="yeniden_dene_button">Yeniden Başla</string>
 </resources>

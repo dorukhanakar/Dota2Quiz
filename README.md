@@ -1,5 +1,4 @@
 AndroQuiz
 
-YARIM KALDI BABAAAA...
+DOTA 2 QUİZ
 
-(COMİNG SOON)
